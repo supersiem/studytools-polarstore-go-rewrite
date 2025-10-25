@@ -1,0 +1,53 @@
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Output folders
+bin/
+build/
+out/
+dist/
+
+# Vendor and dependency caches
+vendor/
+Godeps/
+pkg/
+pkg/mod/
+
+# Go tooling
+cover.out
+*.coverprofile
+*.prof
+*.trace
+
+# IDE/editor settings
+.vscode/
+.idea/
+*.iml
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.*.local
+
+# Logs and temporary files
+*.log
+tmp/
+tmp-*/
+
+# Misc
+tags
+TAGS
+
+# db enzo
+*.db
+*.sqlite3
+*.sql
