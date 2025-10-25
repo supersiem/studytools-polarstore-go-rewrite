@@ -1,4 +1,4 @@
-module github.com/supersiem/st-theme-store
+module github.com/supersiem/studytools-polarstore-go-rewrite
 
 go 1.25.3
 
