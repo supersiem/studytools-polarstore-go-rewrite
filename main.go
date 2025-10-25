@@ -8,7 +8,7 @@ import (
 
 	"github.com/google/uuid"
 
-	hashingAndShit "github.com/supersiem/st-theme-store/helpers"
+	hashingAndShit "github.com/supersiem/studytools-polarstore-go-rewrite/helpers"
 	_ "modernc.org/sqlite"
 )
 
